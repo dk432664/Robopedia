@@ -1,0 +1,76 @@
+
+
+@font-face {
+font-family: 'Arturo Trial ExtraLight';
+font-style: normal;
+font-weight: normal;
+src: local('Arturo Trial ExtraLight'), url('Arturo-ExtraLight Trial.woff') format('woff');
+}
+h1
+{
+  font-family:'Arturo Trial ExtraLight';
+}
+h2
+{
+  font-family:'Arturo Trial ExtraLight';
+  font-weight: 200;
+  color:rgba(70,255,100,1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}*/
