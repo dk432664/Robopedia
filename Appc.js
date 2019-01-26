@@ -1,10 +1,10 @@
 //import React from 'react';
 import React, {Component}  from 'react';
-import {Robo} from '../Containers/Robo';
-import Cardlist from '../Components/Cardlist';
-import Searchitem from '../Components/Searchitem';
+import {Robo} from './Robo';
+import Cardlist from './Cardlist';
+import Searchitem from './Searchitem';
 import './App.css';
-import Scroll from '../Components/Scroll';
+import Scroll from './Scroll';
 //import index from './index.css';
 class  Appc extends Component
 {
